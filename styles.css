@@ -9,6 +9,20 @@ body {
     margin: 0;
 }
 
+h1 {
+    color: #460074;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+span {
+    color: #fff;
+    padding: 5px 15px;
+    background-color: #005408;
+    border-radius: 50px;
+    font-size: 16px;
+}
+
 #input-paragraph {
     width: 80%;
     resize: none;
